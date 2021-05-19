@@ -1,0 +1,239 @@
+# Webalizer V2.21-02 Incremental Data - 05/15/2021 13:50:14
+2021 5 15 13 50 14
+150 99 4 42 10 3 24255732 5 2 0
+1 65 235 7 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+84 52 12114422 2 4 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 11038 1 0 0
+0 0 0 0 0 0
+65 46 12130272 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 11038 0
+65 46 12130272 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+44 36 10170970 2
+40 16 1943452 2
+0 0 0 0
+0
+0
+0
+99
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/bootstrap-select.js
+0 2 0 40878 0 0
+/css/superslides.css
+0 2 0 2386 0 0
+/images/icon/facebook.png
+0 2 0 1846 0 0
+/
+0 5 0 8960 2 0
+/css/carousel-ticker.css
+0 2 0 1012 0 0
+/images/band.png
+0 4 0 44152 0 0
+/js/custom.js
+0 2 0 9802 0 0
+/js/jquery-3.2.1.min.js
+0 2 0 70268 0 0
+/form_login.php
+0 2 0 4244 0 0
+/images/icon/phone-call.png
+0 2 0 4150 0 0
+/css/jquery-ui.css
+0 2 0 19824 0 0
+/images/icon/instagram.png
+0 2 0 3680 0 0
+/css/bootstrap-select.css
+0 2 0 4442 0 0
+/css/bootsnav.css
+0 2 0 12582 0 0
+/css/owl.carousel.min.css
+0 2 0 6702 0 0
+/css/responsive.css
+0 2 0 14324 0 0
+/js/images-loded.min.js
+0 2 0 11118 0 0
+/images/lo.png
+0 2 0 3817388 0 0
+/css/style.css
+0 2 0 26744 0 0
+/shop.php
+0 10 0 17450 0 0
+/js/baguetteBox.min.js
+0 2 0 18422 0 0
+/css/all.css
+0 2 0 22810 0 0
+/js/inewsticker.js
+0 2 0 2314 0 0
+/js/jquery.superslides.min.js
+0 2 0 15764 0 0
+/images/03.jpg
+0 2 0 4124142 0 0
+/gallery.php
+0 4 0 7964 0 0
+/js/popper.min.js
+0 2 0 16164 0 0
+/js/form-validator.min.js
+0 2 0 12110 0 0
+/js/bootstrap.min.js
+0 2 0 38008 0 0
+/images/icon/line.png
+0 2 0 3680 0 0
+/webfonts/fa-solid-900.woff2
+0 2 0 119144 0 0
+/js/owl.carousel.min.js
+0 2 0 27478 0 0
+/images/02.jpg
+0 2 0 5939452 0 0
+/images/01.jpg
+0 2 0 6466074 0 0
+/images/back.png
+0 3 0 3187258 0 0
+/contact-us.php
+0 2 0 3722 0 0
+/js/contact-form-script.js
+0 2 0 3092 0 0
+/css/bootstrap.min.css
+0 2 0 64156 0 0
+/css/code_animate.css
+0 2 0 15318 0 0
+/css/custom.css
+0 2 0 72 0 0
+/css/baguetteBox.min.css
+0 2 0 7218 0 0
+/js/isotope.min.js
+0 2 0 23668 0 0
+# End Of Table - urls
+# -sites- (monthly)
+171.99.155.176
+0 65 47 12130272 1 1621086560
+/
+49.49.223.99
+0 83 51 12103384 1 1620425627
+/
+69.171.251.17
+0 1 1 11038 0 0
+-
+66.220.149.31
+0 1 1 11038 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+171.99.155.176
+0 65 47 12130272 1 1621086560
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.sa-project.lnw.mn/css/style.css
+0 44
+- (Direct Request)
+0 4
+http://www.sa-project.lnw.mn/form_login.php
+0 5
+http://www.sa-project.lnw.mn/
+0 54
+http://www.sa-project.lnw.mn/shop.php
+0 8
+https://l.facebook.com/
+0 1
+http://www.sa-project.lnw.mn/index.php
+0 6
+http://www.sa-project.lnw.mn/contact-us.php
+0 13
+http://www.sa-project.lnw.mn/css/all.css
+0 2
+http://www.sa-project.lnw.mn/gallery.php
+0 13
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+0 83
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+0 65
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
